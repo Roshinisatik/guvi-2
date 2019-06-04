@@ -1,1 +1,2 @@
-# guvi
+a="hello"
+print(a)
